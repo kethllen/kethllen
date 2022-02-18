@@ -41,12 +41,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="kethllen's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kethllen" />
-
-</details>
 
 [instagram]: https://www.instagram.com/kethllenandrey/
 [linkedin]: https://linkedin.com/in/kethllen-andrey
