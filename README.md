@@ -5,11 +5,10 @@
 ## Eu sou Mãe, Esposa, Desenvolvedora, e Engenheira!!
 - ✍ Você pode encontrar meus projetos aqui [portfólio]
 - 🔭 Atualmente, estou cursando o Bootcamp para desenvolvedor Full Stack pela Diven.
-- 🌱 Atualmente, estou aprendendo Java scricpt
-- 👯 Estou procurando colaborar com código aberto
+- 🌱 Atualmente, estou aprendendo nodejs
 - 💬 Pergunte-me sobre ... Qualquer coisa
 - 😄 Pronomes: Ela / Ela
-- ⚡ Curiosidade: falo 2 idiomas (espanhol, português)
+- ⚡ Curiosidade: Programo desde os 16 anos e sempre gostei de resolução de problemas, com isso já participei de muitas maratonas de programação
 
 
 ### Converse comigo, amo conhecer pessoas novas 😄:
