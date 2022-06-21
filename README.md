@@ -13,7 +13,6 @@
 
 
 ### E também sou muito comunicativa e extrovertida, amo trabalhar e viver em grupo, não gosto de ficar sozinha, acredito que compartilhando conhecimento chegamos mais longe. E então vamos bater um papo?
-[<img align="left" alt="kethllen-andrey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 ## Tech Stack
