@@ -2,16 +2,17 @@
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## Eu sou Mãe, Esposa, Desenvolvedora, e Engenheira!!
-- ✍ Você pode encontrar meus projetos aqui [portfólio]
-- 🔭 Atualmente, estou cursando o Bootcamp para desenvolvedor Full Stack pela Diven.
-- 🌱 Atualmente, estou aprendendo nodejs
-- 💬 Pergunte-me sobre ... Qualquer coisa
-- 😄 Pronomes: Ela / Ela
+## Eu sou Desenvolvedora,Engenheira e apaixonada por resolução de problemas!!
+
+-💻Atualmente estou concluindo meu curso de Desenvolvedor Web Full-Stack pela Driven Education !
+-👩🏽‍🎓Formação: Engenheira da familia(também conhecida como A Nerd, aquela que sempre encontra uma solução pra tudo e qualquer problema kkkk)
+-🧩E definitivamente sou apaixonada por resolução de problemas ( aquela que ama um desafio, seja de qual for o  tipo kkkk), e por isso me aventurei pela engenharia e após 6 longos anos consegui me formar na minha tão sonhada federal, e sinto muito orgulho disso 😍
+-👩‍Mãe do Saulinho  💙
+-👩‍❤️‍👨Esposa do Guto -- Bodas de Madeira já 😁
 - ⚡ Curiosidade: Programo desde os 16 anos e sempre gostei de resolução de problemas, com isso já participei de muitas maratonas de programação
 
 
-### Converse comigo, amo conhecer pessoas novas 😄:
+### E também sou muito comunicativa e extrovertida, amo trabalhar e viver em grupo, não gosto de ficar sozinha, acredito que compartilhando conhecimento chegamos mais longe. E então vamos bater um papo?
 [<img align="left" alt="kethllen-andrey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
