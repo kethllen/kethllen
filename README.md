@@ -14,7 +14,7 @@
 
 ### E também sou muito comunicativa e extrovertida, amo trabalhar e viver em grupo, não gosto de ficar sozinha, acredito que compartilhando conhecimento chegamos mais longe. E então vamos bater um papo?
 
-<br />
+
 ## Tech Stack
 
 ### Front-end:
@@ -92,4 +92,4 @@
 
 
 <br />
----
+\
