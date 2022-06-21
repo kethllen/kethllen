@@ -2,13 +2,13 @@
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## Eu sou Desenvolvedora,Engenheira e apaixonada por resolução de problemas!!
+## Eu sou Desenvolvedora, Engenheira e apaixonada por resolução de problemas!!
 
--💻Atualmente estou concluindo meu curso de Desenvolvedor Web Full-Stack pela Driven Education !
--👩🏽‍🎓Formação: Engenheira da familia(também conhecida como A Nerd, aquela que sempre encontra uma solução pra tudo e qualquer problema kkkk)
--🧩E definitivamente sou apaixonada por resolução de problemas ( aquela que ama um desafio, seja de qual for o  tipo kkkk), e por isso me aventurei pela engenharia e após 6 longos anos consegui me formar na minha tão sonhada federal, e sinto muito orgulho disso 😍
--👩‍Mãe do Saulinho  💙
--👩‍❤️‍👨Esposa do Guto -- Bodas de Madeira já 😁
+- 💻Atualmente estou concluindo meu curso de Desenvolvedor Web Full-Stack pela Driven Education !
+- 👩🏽‍🎓Formação: Engenheira da familia(também conhecida como A Nerd, aquela que sempre encontra uma solução pra tudo e qualquer problema kkkk)
+- 🧩Hobby: solucionar problemas ( sou aquela que ama um desafio, seja de qual for o  tipo kkkk), e por isso me aventurei pela engenharia e após 6 longos anos consegui me formar na minha tão sonhada federal, e sinto muito orgulho disso 😍
+- 👩‍Mãe do Saulinho  💙
+- 👩‍❤️‍👨Esposa do Guto -- Bodas de Madeira já 😁
 - ⚡ Curiosidade: Programo desde os 16 anos e sempre gostei de resolução de problemas, com isso já participei de muitas maratonas de programação
 
 
